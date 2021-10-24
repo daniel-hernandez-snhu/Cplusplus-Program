@@ -1,4 +1,4 @@
-C++ Time Clock
+****C++ Time Clock****
 
 
 **Summarize the project and what problem it was solving**
